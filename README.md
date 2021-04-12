@@ -11,3 +11,5 @@
 </a>
 
 - See my LinkedIn [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/mhmda-83)
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default)
