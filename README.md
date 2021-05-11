@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![age](https://img.shields.io/badge/age-16-blue)
+![age](https://img.shields.io/badge/age-17-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
