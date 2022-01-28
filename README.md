@@ -11,8 +11,10 @@
 </a>
 
 <div align="center" >
+  
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://linkedin.com/in/mohammadalian-2004)
 [<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>](https://t.me/MohammadAlian_1383)
+  
 </div>
 
 <div align="center">
