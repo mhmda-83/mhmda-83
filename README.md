@@ -10,6 +10,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmda-83&theme=nord" />
 </a>
 
-- See my LinkedIn [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/mhmda-83)
+- See my LinkedIn [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohammadalian-2004/)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=default&font=default)
