@@ -1,6 +1,6 @@
 <div align="center" >
 
-### Hi there 👋
+  <samp><h1> Hi there 👋 </h1></samp>
 
 ![age](https://img.shields.io/badge/age-17-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
