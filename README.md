@@ -2,7 +2,7 @@
 
   <samp><h1> Hi there 👋 </h1></samp>
 
-![age](https://img.shields.io/badge/age-17-blue)
+![age](https://img.shields.io/badge/age-18-blue)
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 
