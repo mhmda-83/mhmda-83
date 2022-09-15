@@ -2,10 +2,6 @@
 
   <samp><h1> Hi there 👋 </h1></samp>
 
-![age](https://img.shields.io/badge/age-18-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-iran-3c9)
-
 <a href="https://github.com/mhmda-83">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmda-83&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
 <a href="https://github.com/mhmda-83">
